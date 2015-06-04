@@ -1,2 +1,2 @@
 # astraylinux.com
-My main page. Save here.
+My main page by Hexo. Save here.
