@@ -1,6 +1,16 @@
-#github表情列表，方便查看
+#github表情列表
+有些字符串过长，有些长串不知道为什么，放进来后所有表情都不显示了，就去掉了，如果想要找完全版的，可以到
+[guodongxiaren](https://github.com/guodongxiaren/README/blob/master/emoji.md)
+
 
 ##人物
+
+| 效果 | 代码 | 效果 | 代码 | 效果 | 代码 |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| :kissing_heart: | kissing_heart | :kissing_closed_eyes: | kissing_closed_eyes | :stuck_out_tongue_winking_eye: | stuck_out_tongue_winking_eye |
+| :stuck_out_tongue_closed_eyes: | stuck_out_tongue_closed_eyes | :kissing_smiling_eyes: | kissing_smiling_eyes | :stuck_out_tongue: | stuck_out_tongue |
+| :expressionless: | expressionless | :disappointed_relieved: | disappointed_relieved | :disappointed: | disappointed |
+| :neutral_face: | neutral_face | 
 
 | 效果 | 代码 | 效果 | 代码 | 效果 | 代码 | 效果 | 代码 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -44,15 +54,6 @@
 | :rage2: | rage2 | :rage3: | rage3 | :rage4: | rage4 | :suspect: | suspect  |
 | :trollface: | trollface |
 
-
-##长字符
-
-| 效果 | 代码 | 效果 | 代码 | 效果 | 代码 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-| :kissing_heart: | kissing_heart | :kissing_closed_eyes: | kissing_closed_eyes | :stuck_out_tongue_winking_eye: | stuck_out_tongue_winking_eye |
-| :stuck_out_tongue_closed_eyes: | stuck_out_tongue_closed_eyes | :kissing_smiling_eyes: | kissing_smiling_eyes | :stuck_out_tongue: | stuck_out_tongue |
-| :expressionless: | expressionless | :disappointed_relieved: | disappointed_relieved | :disappointed: | disappointed |
-| :neutral_face: | neutral_face | 
 
 ##自然
 
