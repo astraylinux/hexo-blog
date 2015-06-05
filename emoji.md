@@ -45,6 +45,28 @@
 | :trollface: | trollface |
 
 
+##长字符
+
+| 效果 | 代码 | 效果 | 代码 | 效果 | 代码 |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| :kissing_heart: | kissing_heart | :kissing_closed_eyes: | kissing_closed_eyes | :stuck_out_tongue_winking_eye: | stuck_out_tongue_winking_eye |
+| :stuck_out_tongue_closed_eyes: | stuck_out_tongue_closed_eyes | :kissing_smiling_eyes: | kissing_smiling_eyes | :stuck_out_tongue: | stuck_out_tongue |
+| :expressionless: | expressionless | :disappointed_relieved: | disappointed_relieved | :disappointed: | disappointed |
+| :neutral_face: | neutral_face | :arrow_backward: | arrow_backward | :arrow_forward: | arrow_forward |
+| :arrow_lower_left: | arrow_lower_left | :arrow_lower_right: | arrow_lower_right | :arrow_upper_left: | arrow_upper_left |
+| :arrow_upper_right: | arrow_upper_right | :arrow_double_down: | arrow_double_down | :arrow_double_up: | arrow_double_up |
+| :arrow_down_small: | arrow_down_small | :arrow_heading_down: | arrow_heading_down | :arrow_heading_up: | arrow_heading_up |
+| :leftwards_arrow_with_hook: | leftwards_arrow_with_hook | :arrow_right_hook: | arrow_right_hook | :left_right_arrow: | left_right_arrow |
+| :arrow_up_down: | arrow_up_down | :arrow_up_small: | arrow_up_small | :arrows_clockwise: | arrows_clockwise |
+| :arrows_counterclockwise: | arrows_counterclockwise | :fast_forward: | fast_forward | :information_source: | information_source |
+| :twisted_rightwards_arrows: | twisted_rightwards_arrows | :signal_strength: | signal_strength | :baggage_claim: | baggage_claim |
+| :potable_water: | potable_water | :put_litter_in_its_place: | put_litter_in_its_place | :capital_abcd: | capital_abcd |
+| :sun_with_face: | sun_with_face | :full_moon_with_face: | full_moon_with_face | :new_moon_with_face: | new_moon_with_face |
+| :waxing_crescent_moon: | waxing_crescent_moon | :first_quarter_moon: | first_quarter_moon | :waxing_gibbous_moon: | waxing_gibbous_moon |
+| :waning_gibbous_moon: | waning_gibbous_moon | :last_quarter_moon: | last_quarter_moon | :waning_crescent_moon: | waning_crescent_moon |
+| :last_quarter_moon_with_face: | last_quarter_moon_with_face | :first_quarter_moon_with_face: | first_quarter_moon_with_face |
+
+
 ##自然
 
 | 效果 | 代码 | 效果 | 代码 | 效果 | 代码 | 效果 | 代码 |
@@ -196,82 +218,4 @@
 | :wavy_dash: | wavy_dash | :trident: | trident | :red_circle: | red_circle | :shipit: | shipit  |
 
 
-
-##长字符
-
-| 效果 | 代码 | 效果 | 代码 | 效果 | 代码 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-| :kissing_heart: | kissing_heart | :kissing_closed_eyes: | kissing_closed_eyes | :stuck_out_tongue_winking_eye: | stuck_out_tongue_winking_eye  |
-| :stuck_out_tongue_closed_eyes: | stuck_out_tongue_closed_eyes | :kissing_smiling_eyes: | kissing_smiling_eyes | :stuck_out_tongue: | stuck_out_tongue  |
-| :expressionless: | expressionless | :disappointed_relieved: | disappointed_relieved | :disappointed: | disappointed  |
-| :neutral_face: | neutral_face | :yellow_heart: | yellow_heart | :purple_heart: | purple_heart  |
-| :broken_heart: | broken_heart | :revolving_hearts: | revolving_hearts | :sparkling_heart: | sparkling_heart  |
-| :grey_exclamation: | grey_exclamation | :grey_question: | grey_question | :musical_note: | musical_note  |
-| :raised_hands: | raised_hands | :two_men_holding_hands: | two_men_holding_hands | :two_women_holding_hands: | two_women_holding_hands  |
-| :information_desk_person: | information_desk_person | :raising_hand: | raising_hand | :bride_with_veil: | bride_with_veil  |
-| :person_with_pouting_face: | person_with_pouting_face | :person_frowning: | person_frowning | :couple_with_heart: | couple_with_heart  |
-| :person_with_blond_hair: | person_with_blond_hair | :man_with_gua_pi_mao: | man_with_gua_pi_mao | :man_with_turban: | man_with_turban  |
-| :construction_worker: | construction_worker | :heart_eyes_cat: | heart_eyes_cat | :crying_cat_face: | crying_cat_face  |
-| :japanese_ogre: | japanese_ogre | :japanese_goblin: | japanese_goblin | :hear_no_evil: | hear_no_evil  |
-| :speak_no_evil: | speak_no_evil | :bust_in_silhouette: | bust_in_silhouette | :busts_in_silhouette: | busts_in_silhouette  |
-| :speech_balloon: | speech_balloon | :thought_balloon: | thought_balloon | :hatched_chick: | hatched_chick  |
-| :hatching_chick: | hatching_chick | :tropical_fish: | tropical_fish | :water_buffalo: | water_buffalo  |
-| :dromedary_camel: | dromedary_camel | :cherry_blossom: | cherry_blossom | :four_leaf_clover: | four_leaf_clover  |
-| :evergreen_tree: | evergreen_tree | :deciduous_tree: | deciduous_tree | :globe_with_meridians: | globe_with_meridians  |
-| :sun_with_face: | sun_with_face | :full_moon_with_face: | full_moon_with_face | :new_moon_with_face: | new_moon_with_face  |
-| :waxing_crescent_moon: | waxing_crescent_moon | :first_quarter_moon: | first_quarter_moon | :waxing_gibbous_moon: | waxing_gibbous_moon  |
-| :waning_gibbous_moon: | waning_gibbous_moon | :last_quarter_moon: | last_quarter_moon | :waning_crescent_moon: | waning_crescent_moon  |
-| :last_quarter_moon_with_face: | last_quarter_moon_with_face | :first_quarter_moon_with_face: | first_quarter_moon_with_face | :earth_africa: | earth_africa  |
-| :earth_americas: | earth_americas | :partly_sunny: | partly_sunny | :school_satchel: | school_satchel  |
-| :mortar_board: | mortar_board | :jack_o_lantern: | jack_o_lantern | :christmas_tree: | christmas_tree  |
-| :tanabata_tree: | tanabata_tree | :confetti_ball: | confetti_ball | :crystal_ball: | crystal_ball  |
-| :video_camera: | video_camera | :movie_camera: | movie_camera | :telephone_receiver: | telephone_receiver  |
-| :hourglass_flowing_sand: | hourglass_flowing_sand | :lock_with_ink_pen: | lock_with_ink_pen | :closed_lock_with_key: | closed_lock_with_key  |
-| :high_brightness: | high_brightness | :low_brightness: | low_brightness | :electric_plug: | electric_plug  |
-| :nut_and_bolt: | nut_and_bolt | :money_with_wings: | money_with_wings | :incoming_envelope: | incoming_envelope  |
-| :mailbox_closed: | mailbox_closed | :mailbox_with_mail: | mailbox_with_mail | :mailbox_with_no_mail: | mailbox_with_no_mail  |
-| :page_facing_up: | page_facing_up | :page_with_curl: | page_with_curl | :bookmark_tabs: | bookmark_tabs  |
-| :chart_with_upwards_trend: | chart_with_upwards_trend | :chart_with_downwards_trend: | chart_with_downwards_trend | :open_file_folder: | open_file_folder  |
-| :straight_ruler: | straight_ruler | :triangular_ruler: | triangular_ruler | :notebook_with_decorative_cover: | notebook_with_decorative_cover  |
-| :rugby_football: | rugby_football | :mountain_bicyclist: | mountain_bicyclist | :horse_racing: | horse_racing  |
-| :musical_score: | musical_score | :musical_keyboard: | musical_keyboard | :space_invader: | space_invader  |
-| :flower_playing_cards: | flower_playing_cards | :womans_clothes: | womans_clothes | :running_shirt_with_sash: | running_shirt_with_sash  |
-| :closed_umbrella: | closed_umbrella | :fishing_pole_and_fish: | fishing_pole_and_fish | :tropical_drink: | tropical_drink  |
-| :fork_and_knife: | fork_and_knife | :meat_on_bone: | meat_on_bone | :fried_shrimp: | fried_shrimp  |
-| :rice_cracker: | rice_cracker | :chocolate_bar: | chocolate_bar | :sweet_potato: | sweet_potato  |
-| :house_with_garden: | house_with_garden | :convenience_store: | convenience_store | :department_store: | department_store  |
-| :european_post_office: | european_post_office | :city_sunrise: | city_sunrise | :japanese_castle: | japanese_castle  |
-| :european_castle: | european_castle | :sunrise_over_mountains: | sunrise_over_mountains | :statue_of_liberty: | statue_of_liberty  |
-| :bridge_at_night: | bridge_at_night | :carousel_horse: | carousel_horse | :ferris_wheel: | ferris_wheel  |
-| :roller_coaster: | roller_coaster | :steam_locomotive: | steam_locomotive | :mountain_railway: | mountain_railway  |
-| :aerial_tramway: | aerial_tramway | :suspension_railway: | suspension_railway | :mountain_cableway: | mountain_cableway  |
-| :oncoming_automobile: | oncoming_automobile | :oncoming_taxi: | oncoming_taxi | :articulated_lorry: | articulated_lorry  |
-| :oncoming_bus: | oncoming_bus | :rotating_light: | rotating_light | :oncoming_police_car: | oncoming_police_car  |
-| :bullettrain_front: | bullettrain_front | :bullettrain_side: | bullettrain_side | :vertical_traffic_light: | vertical_traffic_light  |
-| :traffic_light: | traffic_light | :construction: | construction | :slot_machine: | slot_machine  |
-| :checkered_flag: | checkered_flag | :crossed_flags: | crossed_flags | :izakaya_lantern: | izakaya_lantern  |
-| :performing_arts: | performing_arts | :round_pushpin: | round_pushpin | :triangular_flag_on_post: | triangular_flag_on_post  |
-| :arrow_backward: | arrow_backward | :arrow_forward: | arrow_forward | :capital_abcd: | capital_abcd  |
-| :arrow_lower_left: | arrow_lower_left | :arrow_lower_right: | arrow_lower_right | :arrow_upper_left: | arrow_upper_left  |
-| :arrow_upper_right: | arrow_upper_right | :arrow_double_down: | arrow_double_down | :arrow_double_up: | arrow_double_up  |
-| :arrow_down_small: | arrow_down_small | :arrow_heading_down: | arrow_heading_down | :arrow_heading_up: | arrow_heading_up  |
-| :leftwards_arrow_with_hook: | leftwards_arrow_with_hook | :arrow_right_hook: | arrow_right_hook | :left_right_arrow: | left_right_arrow  |
-| :arrow_up_down: | arrow_up_down | :arrow_up_small: | arrow_up_small | :arrows_clockwise: | arrows_clockwise  |
-| :arrows_counterclockwise: | arrows_counterclockwise | :fast_forward: | fast_forward | :information_source: | information_source  |
-| :twisted_rightwards_arrows: | twisted_rightwards_arrows | :signal_strength: | signal_strength | :baggage_claim: | baggage_claim  |
-| :potable_water: | potable_water | :put_litter_in_its_place: | put_litter_in_its_place | :congratulations: | congratulations  |
-| :passport_control: | passport_control | :left_luggage: | left_luggage | :ideograph_advantage: | ideograph_advantage  |
-| :no_entry_sign: | no_entry_sign | :no_mobile_phones: | no_mobile_phones | :do_not_litter: | do_not_litter  |
-| :non-potable_water: | non-potable_water | :no_pedestrians: | no_pedestrians | :children_crossing: | children_crossing  |
-| :eight_spoked_asterisk: | eight_spoked_asterisk | :eight_pointed_black_star: | eight_pointed_black_star | :heart_decoration: | heart_decoration  |
-| :vibration_mode: | vibration_mode | :mobile_phone_off: | mobile_phone_off | :currency_exchange: | currency_exchange  |
-| :six_pointed_star: | six_pointed_star | :negative_squared_cross_mark: | negative_squared_cross_mark | :diamond_shape_with_a_dot_inside: | diamond_shape_with_a_dot_inside  |
-| :heavy_dollar_sign: | heavy_dollar_sign | :heavy_exclamation_mark: | heavy_exclamation_mark | :heavy_multiplication_x: | heavy_multiplication_x  |
-| :heavy_plus_sign: | heavy_plus_sign | :heavy_minus_sign: | heavy_minus_sign | :heavy_division_sign: | heavy_division_sign  |
-| :white_flower: | white_flower | :heavy_check_mark: | heavy_check_mark | :ballot_box_with_check: | ballot_box_with_check  |
-| :radio_button: | radio_button | :part_alternation_mark: | part_alternation_mark | :black_large_square: | black_large_square  |
-| :white_large_square: | white_large_square | :white_check_mark: | white_check_mark | :white_square_button: | white_square_button  |
-| :black_square_button: | black_square_button | :black_circle: | black_circle | :white_circle: | white_circle  |
-| :large_blue_circle: | large_blue_circle | :large_blue_diamond: | large_blue_diamond | :large_orange_diamond: | large_orange_diamond  |
-| :small_blue_diamond: | small_blue_diamond | :small_orange_diamond: | small_orange_diamond | :small_red_triangle: | small_red_triangle  |
 
