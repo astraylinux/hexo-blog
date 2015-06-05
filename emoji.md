@@ -2,6 +2,8 @@
 有些字符串过长，有些长串不知道为什么，放进来后所有表情都不显示了，就去掉了，如果想要找完全版的，可以到
 [guodongxiaren](https://github.com/guodongxiaren/README/blob/master/emoji.md)
 
+在发评论的时候，输入`:代码:`就可以输出表情，比如`:smile:`,就会显示:simle:
+
 
 ##人物
 
