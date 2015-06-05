@@ -52,20 +52,7 @@
 | :kissing_heart: | kissing_heart | :kissing_closed_eyes: | kissing_closed_eyes | :stuck_out_tongue_winking_eye: | stuck_out_tongue_winking_eye |
 | :stuck_out_tongue_closed_eyes: | stuck_out_tongue_closed_eyes | :kissing_smiling_eyes: | kissing_smiling_eyes | :stuck_out_tongue: | stuck_out_tongue |
 | :expressionless: | expressionless | :disappointed_relieved: | disappointed_relieved | :disappointed: | disappointed |
-| :neutral_face: | neutral_face | :arrow_backward: | arrow_backward | :arrow_forward: | arrow_forward |
-| :arrow_lower_left: | arrow_lower_left | :arrow_lower_right: | arrow_lower_right | :arrow_upper_left: | arrow_upper_left |
-| :arrow_upper_right: | arrow_upper_right | :arrow_double_down: | arrow_double_down | :arrow_double_up: | arrow_double_up |
-| :arrow_down_small: | arrow_down_small | :arrow_heading_down: | arrow_heading_down | :arrow_heading_up: | arrow_heading_up |
-| :leftwards_arrow_with_hook: | leftwards_arrow_with_hook | :arrow_right_hook: | arrow_right_hook | :left_right_arrow: | left_right_arrow |
-| :arrow_up_down: | arrow_up_down | :arrow_up_small: | arrow_up_small | :arrows_clockwise: | arrows_clockwise |
-| :arrows_counterclockwise: | arrows_counterclockwise | :fast_forward: | fast_forward | :information_source: | information_source |
-| :twisted_rightwards_arrows: | twisted_rightwards_arrows | :signal_strength: | signal_strength | :baggage_claim: | baggage_claim |
-| :potable_water: | potable_water | :put_litter_in_its_place: | put_litter_in_its_place | :capital_abcd: | capital_abcd |
-| :sun_with_face: | sun_with_face | :full_moon_with_face: | full_moon_with_face | :new_moon_with_face: | new_moon_with_face |
-| :waxing_crescent_moon: | waxing_crescent_moon | :first_quarter_moon: | first_quarter_moon | :waxing_gibbous_moon: | waxing_gibbous_moon |
-| :waning_gibbous_moon: | waning_gibbous_moon | :last_quarter_moon: | last_quarter_moon | :waning_crescent_moon: | waning_crescent_moon |
-| :last_quarter_moon_with_face: | last_quarter_moon_with_face | :first_quarter_moon_with_face: | first_quarter_moon_with_face |
-
+| :neutral_face: | neutral_face | 
 
 ##自然
 
