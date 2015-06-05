@@ -1,7 +1,8 @@
 #github表情列表，方便查看
 
 ##人物
- :bowtie:bowtie
+ :bowtie: bowtie
+ 
 :smile:smile
 :laughing:laughing
 :blush:blush
