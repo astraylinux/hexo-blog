@@ -1,4 +1,4 @@
-title: linux内核0.12--第一章，概述
+title: linux内核0.12－－第一章，概述
 date: 2012-02-23 13:41:00
 categories:
 - Linux

@@ -14,7 +14,7 @@ timezone:
 
 #for next
 duoshuo_shortname: astraylinux
-baidu_analytics: 95adbbd83f23fc79169ee370c642aaf3 
+baidu_analytics: a34fb8095f675f64aba62bb6ac621bf8
 avatar: "/head.png"
 swiftype_key: aTKdVx74VsysXTzhBxme
 creative_commons: by-nc-sa
@@ -27,6 +27,7 @@ feed:
     type: atom
     path: /atom.xml
     limit: 20
+
 #
 
 # Extensions
