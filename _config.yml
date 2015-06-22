@@ -7,25 +7,25 @@ title: Astray Linux
 subtitle: A Linux guy, some study logs!
 description: "Most days I wake up thinking I’m the luckiest bastard alive."
 author: Helen Zh
-#language: zh-Hans 
+#language: zh-Hans
 language: default
 email: astraylinux@gmail.com
-timezone: 
+timezone:
 
 #for next
 duoshuo_shortname: astraylinux
 baidu_analytics: a34fb8095f675f64aba62bb6ac621bf8
 avatar: "/head.png"
-swiftype_key: aTKdVx74VsysXTzhBxme
+#swiftype_key: aTKdVx74VsysXTzhBxme
 creative_commons: by-nc-sa
 
-social_github: 
+social_github:
   link: https://github.com/astraylinux
   icon: "fa fa-github-alt"
-social_weibo: 
+social_weibo:
   link: http://weibo.com/u/2464721237
   icon: "fa fa-weibo"
-social_facebook: 
+social_facebook:
   link: https://www.facebook.com/astraylinux
   icon: "fa fa-facebook"
 
@@ -42,8 +42,8 @@ Plugins: #http://hexo.io/plugins/
 
 ## Themes: http://hexo.io/themes/
 #theme: landscape
-#theme: yilia 
-theme: next 
+#theme: yilia
+theme: next
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html

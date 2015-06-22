@@ -2,12 +2,11 @@ title: Install and config Hexo (simple)
 date: 2015-06-02 18:10:01
 categories: linux
 tags: install
+keywords: Install and config Hexo, 安装和配置Hexo. linux, 博客, 技术
 ---
 
 The process of my Hexo with github installation!
 OS: Centos 7 64bit in Linode vps
-
-<!--more-->
 
 ## Step 1 Install
 
@@ -28,6 +27,8 @@ We need npm(Node Package Manager) to install Hexo.
 ```
 
 If hexo work well, you can through http://youhost:4000 to open it.
+
+<!--more-->
 
 ## Step 2 Config with github
 
