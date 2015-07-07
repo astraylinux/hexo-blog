@@ -1,4 +1,4 @@
-title: VIM配置语言简记
+title: vim配置语言简记
 date: 2014-06-05 14:40:01
 categories:
 - VIM
