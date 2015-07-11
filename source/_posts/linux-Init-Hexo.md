@@ -1,7 +1,11 @@
 title: Install and config Hexo (simple)
 date: 2015-06-02 18:10:01
-categories: linux
-tags: install
+categories: Linux
+tags:
+  - install
+  - Linux
+  - config
+  - server
 keywords: Install and config Hexo, 安装和配置Hexo. linux, 博客, 技术
 ---
 

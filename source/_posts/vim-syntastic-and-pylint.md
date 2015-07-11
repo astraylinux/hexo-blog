@@ -1,4 +1,4 @@
-title: VIM语法检查插件Syntastic和pylint的安装配置
+title: vim语法检查插件Syntastic和pylint的安装配置
 date: 2014-03-05 14:40:01
 categories:
 - VIM
