@@ -11,16 +11,16 @@ keywords: HTTP, POST, python, des, redis, 服务端, 客户端
 
 这两天在优化我们一套数据导入流程, 记录下优化过程中的问题和解决办法.
 这套导入流程结构是这样的
-![](http://res.astraylinux.com/server/http_post_optimization.png)
 流程说明:
 1. 首先用户通过提供的接口,将数据处理,加密,base64编码,urlencode,最后向服务端Post数据.
 2. 服务端使用PHP接收用户数据,解密.
 3. PHP将json数据插入指定的redis队列.
 4. 最后单项目数据导入程序,将redis队列数据取出并导入mongodb.
+<!--more-->
 
+![](http://res.astraylinux.com/server/http_post_optimization.png)
 之所以加redis和单项目导入程序这一层, 是因为导入程序这一块有较多的业务处理. 并且只导redis队列速度较快,用户可以快速返回.
 在实际使用中, 逐渐发现了一些性能问题.
-<!--more-->
 
 ## Python Des加密性能
 最早出现的问题是python的des加密性能, 使用python接口导入的时候, 一秒钟能只能一百多条数据, 总共也就不到100k的数据. 这个性能是完全没法接受的, 100w数据要3个小时导入. 

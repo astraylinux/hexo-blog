@@ -17,10 +17,11 @@ Recently, I have tried to optimize a python module which accepts json string fro
 The Mongodb development library of 'C' is [**mongo-c-driver**](https://github.com/mongodb/mongo-c-driver). Install it.
 
 In 'mongo-c-driver', the main data structure is not 'json', It uses 'Bson'([libbson](https://github.com/mongodb/libbson)) to instead. If you want to study libbson through the doc, you could use the command 'yelp' to open it(If you are using a Linux with GUI) or covert the [Mallard](http://projectmallard.org/) to Html.
+
+<!--more-->
 ```bash
 yelp-build html *.page
 ```
-<!--more-->
 
 ##bson.c
 Everything ready, I write a simple program [bson.c](https://github.com/astraylinux/study/blob/master/tools/mongo_c/bson.c) to study libbson first. Focus to the Makefile, we should compile it with the 'mongo-c-driver'.
