@@ -1,6 +1,6 @@
 #归并排序
 title: 归并排序
-date: 2014-09-06 14:40:01
+date: 2013-09-06 14:40:01
 categories:
 - algorithm
 tags:

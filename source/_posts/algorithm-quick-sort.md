@@ -1,5 +1,5 @@
 title: 快速排序
-date: 2014-09-05 14:40:01
+date: 2013-09-05 14:40:01
 categories:
 - algorithm
 tags:
