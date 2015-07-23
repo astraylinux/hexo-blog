@@ -118,5 +118,7 @@ print "head meta:", head.xpath("./meta[4]/@content")[0]
     head element: <Element head at 0x7f3edc201a28>
     head meta: C,Python,Php,程序猿
 
+xpath()如果有数据的话，返回的是一个数组，不管结果个数个是几个。如果结果是节点的话，节点也可以看成是一个doc，可以再执行xpath()。
+
 ##PS：封装
 由于XPath可以很方便地通过配置提取HTML，这样我们可以考虑将页面获取等其他操作写成一个通用的程序，然后根据配置文件来进行提取，将提取做成一个通用的模块。由于XPath本身的功能还不能满足所有的提取，封装的时候，要加上一些功能函数以对提取结果做再处理。具体可以看我整理的python一些常用的代码[pylib](https://github.com/astraylinux/pylib)里的expath模块。
