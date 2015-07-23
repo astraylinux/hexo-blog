@@ -1,7 +1,7 @@
 ##emoji from smzdm
 
-|X|0|1|2|3|4|5|6|7|8|9|
-|-|-|-|-|-|-|-|-|-|-|-|
+| X | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| - | - | - | - | - | - | - | - | - | - | - |
 |0|![](http://res.astraylinux.com/emoji/0.png)|![](http://res.astraylinux.com/emoji/1.png)|![](http://res.astraylinux.com/emoji/2.png)|![](http://res.astraylinux.com/emoji/3.png)|![](http://res.astraylinux.com/emoji/4.png)|![](http://res.astraylinux.com/emoji/5.png)|![](http://res.astraylinux.com/emoji/6.png)|![](http://res.astraylinux.com/emoji/7.png)|![](http://res.astraylinux.com/emoji/8.png)|![](http://res.astraylinux.com/emoji/9.png)|
 |1|![](http://res.astraylinux.com/emoji/10.png)|![](http://res.astraylinux.com/emoji/11.png)|![](http://res.astraylinux.com/emoji/12.png)|![](http://res.astraylinux.com/emoji/13.png)|![](http://res.astraylinux.com/emoji/14.png)|![](http://res.astraylinux.com/emoji/15.png)|![](http://res.astraylinux.com/emoji/16.png)|![](http://res.astraylinux.com/emoji/17.png)|![](http://res.astraylinux.com/emoji/18.png)|![](http://res.astraylinux.com/emoji/19.png)|
 |2|![](http://res.astraylinux.com/emoji/20.png)|![](http://res.astraylinux.com/emoji/21.png)|![](http://res.astraylinux.com/emoji/22.png)|![](http://res.astraylinux.com/emoji/23.png)|![](http://res.astraylinux.com/emoji/24.png)|![](http://res.astraylinux.com/emoji/25.png)|![](http://res.astraylinux.com/emoji/26.png)|![](http://res.astraylinux.com/emoji/27.png)|![](http://res.astraylinux.com/emoji/28.png)|![](http://res.astraylinux.com/emoji/29.png)|
