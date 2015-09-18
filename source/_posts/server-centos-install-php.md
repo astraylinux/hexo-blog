@@ -64,7 +64,7 @@ yum -y install ncurses-devel libxml2-devel bzip2-devel libcurl-devel \
 --enable-sockets\
 --enable-zip\
 --enable-bcmath\
---disable-ipv6
+--disable-ipv6\
 --disable-phar\
 --disable-rpath\
 ```
